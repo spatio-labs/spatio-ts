@@ -6,11 +6,10 @@
   "homepage": "https://www.spatio.app/developers/docs",
   "repository": {
     "type": "git",
-    "url": "https://github.com/spatio-labs/spatio.git",
-    "directory": "packages/sdk-ts"
+    "url": "https://github.com/spatio-labs/spatio-ts.git"
   },
   "bugs": {
-    "url": "https://github.com/spatio-labs/spatio/issues"
+    "url": "https://github.com/spatio-labs/spatio-ts/issues"
   },
   "keywords": [
     "spatio",
